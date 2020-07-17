@@ -11,4 +11,4 @@
 - Verbalize your insights in notebook in Markdown cells
 - Summarize your insights at bottom of notebook
 
-[Link to PR]()
+[Link to PR](https://github.com/LeoKuhorev/data-visualization/pull/2)
